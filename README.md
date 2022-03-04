@@ -1,4 +1,6 @@
-### Hi there 👋
+### Introduction
+
+This page contains bits and pieces of projects gone and to come.
 
 <!--
 **levtsid/levtsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
