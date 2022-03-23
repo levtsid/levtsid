@@ -2,6 +2,10 @@
 
 This page contains bits and pieces of projects gone and to come.
 
+Not sure what'll end up here yet, but it probably won't be organized or very complete.
+
+Hopefully it'll still be interesting nonetheless.
+
 <!--
 **levtsid/levtsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
