@@ -2,7 +2,7 @@
 
 This page contains bits and pieces of projects gone and to come.
 
-Not sure what'll end up here yet, but it probably won't be organized or very complete.
+Currently on an ML push, working on developing skills.
 
 Hopefully it'll still be interesting nonetheless.
 
